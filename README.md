@@ -56,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0901-online-stock-span) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
