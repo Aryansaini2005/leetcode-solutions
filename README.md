@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## String Matching
 |  |
 | ------- |
