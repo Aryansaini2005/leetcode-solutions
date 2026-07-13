@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
