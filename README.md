@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
