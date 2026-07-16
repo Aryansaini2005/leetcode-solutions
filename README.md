@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
