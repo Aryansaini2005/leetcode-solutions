@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 ## Sliding Window
 |  |
@@ -142,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
