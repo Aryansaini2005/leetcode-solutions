@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
