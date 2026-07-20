@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 ## String Matching
