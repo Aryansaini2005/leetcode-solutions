@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## String Matching
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
+| [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
 | ------- |
