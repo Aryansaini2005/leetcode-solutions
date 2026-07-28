@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Simulation
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
