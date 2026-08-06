@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Design
 |  |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Sliding Window
