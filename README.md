@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
