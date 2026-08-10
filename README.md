@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0707-design-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -260,4 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
