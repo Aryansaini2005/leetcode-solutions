@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
+| [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Sliding Window
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 ## Trie
 |  |
 | ------- |
