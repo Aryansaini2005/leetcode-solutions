@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
