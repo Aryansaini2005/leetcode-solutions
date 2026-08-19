@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 ## String
 |  |
