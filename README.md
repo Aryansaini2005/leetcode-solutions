@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1513-number-of-substrings-with-only-1s](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1922-count-good-numbers) |
