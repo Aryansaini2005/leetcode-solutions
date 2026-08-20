@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0090-subsets-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
