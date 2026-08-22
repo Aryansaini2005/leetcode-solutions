@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1817-finding-the-users-active-minutes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1817-finding-the-users-active-minutes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 ## Stack
 |  |
 | ------- |
