@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [1817-finding-the-users-active-minutes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
 ## Stack
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
+| [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
+| [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [3024-type-of-triangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3024-type-of-triangle) |
 ## Sliding Window
@@ -379,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+## Geometry
+|  |
+| ------- |
+| [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 <!---LeetCode Topics End-->
