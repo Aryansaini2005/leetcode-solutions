@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1395-count-number-of-teams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1817-finding-the-users-active-minutes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1817-finding-the-users-active-minutes) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1395-count-number-of-teams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2100-find-good-days-to-rob-the-bank) |
 ## Simulation
 |  |
@@ -389,4 +391,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
