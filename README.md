@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
