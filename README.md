@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
