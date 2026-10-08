@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0227-basic-calculator-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0227-basic-calculator-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0402-remove-k-digits](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0204-count-primes) |
+| [0227-basic-calculator-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0441-arranging-coins](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0509-fibonacci-number) |
