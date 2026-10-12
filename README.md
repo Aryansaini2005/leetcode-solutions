@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1041-robot-bounded-in-circle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0796-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1041-robot-bounded-in-circle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1108-defanging-an-ip-address](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
