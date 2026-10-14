@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
+| [1544-make-the-string-great](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1544-make-the-string-great](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
