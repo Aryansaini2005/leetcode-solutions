@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2104-sum-of-subarray-ranges](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-robot-bounded-in-circle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1903-largest-odd-number-in-string](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
