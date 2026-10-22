@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0622-design-circular-queue](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1472-design-browser-history) |
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
