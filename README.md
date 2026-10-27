@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0939-minimum-area-rectangle](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0939-minimum-area-rectangle) |
 | [0946-validate-stack-sequences](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [1046-last-stone-weight](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1094-car-pooling) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1395-count-number-of-teams](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1395-count-number-of-teams) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/2352-equal-row-and-column-pairs) |
 ## Linked List
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Aryansaini2005/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Graph Theory
 |  |
 | ------- |
